@@ -1,0 +1,10 @@
+target/
+logs/
+reports/
+screenshots/
+test-output/
+.settings/
+.classpath
+.project
+*.class
+*.log
